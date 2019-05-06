@@ -4,6 +4,8 @@ date: 2019-05-06
 tags: [machine learning, data science, classfication, prediction]
 header:
   image:""
+---
+
   
   # Suicide Attempt Prediction
 
